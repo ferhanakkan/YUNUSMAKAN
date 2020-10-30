@@ -1,6 +1,6 @@
 ### Hi, I'm Yunus Makan! 👋
 
-- 🔭 I’m currently working on Company Project!
+- 🔭 I’m iOS Developer!
 - 🌱 I’m currently learning  iOS & Swift!
 - 💬 Ask me about Swift!
 - 📫 How to reach me: makanyunus@gmail.com
