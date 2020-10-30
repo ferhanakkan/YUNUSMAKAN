@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on Company Project!
 - 🌱 I’m currently learning  iOS & Swift!
-- 🤔 I’m looking for help with VelocityX documentation!
 - 💬 Ask me about Swift!
 - 📫 How to reach me: makanyunus@gmail.com
 
